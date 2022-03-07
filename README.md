@@ -6,4 +6,3 @@ the DeepLearning.AI's NLP specialization which uses Trax but I've little idea ho
 with custom dataset for training and even has courses to teach you how to do it. I've used custom dataset tp train the models and this repo is to help others who are 
 interested to know how to do it. 
 
-this is a test to see if SSH can work with github. 
